@@ -114,9 +114,7 @@
         </pluginManagement>
         <plugins>
             <plugin>
-                <groupId>org.apache.maven</groupId>
-                <artifactId>maven-artifact</artifactId>
-                <version>3.0</version>
+                <artifactId>maven-failsafe-plugin</artifactId>
                 <executions>
                     <execution>
                         <goals>
